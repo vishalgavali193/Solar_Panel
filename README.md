@@ -90,6 +90,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For inquiries or support, please contact:
 
-- **Name**: Paras Wadkar
-- **Email**: [paraswadkar11@gmail.com](mailto:paraswadkar11@gmail.com)
-- **LinkedIn**: [Paras Wadkar LinkedIn](https://www.linkedin.com/in/paras-wadkar-906628292/)
+- **Name**: Vishal Gavali
+- **Email**: vishalgavali2004@gmail.com
